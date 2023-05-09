@@ -1,11 +1,11 @@
 ### Hey Binod here 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binodbhusal&theme=radical)
 
 ---
 
 <p align="center">
   <img src="images/binodcard.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binodbhusal&theme=radical)
 
 I am full stack passionate developer with  impressive IT credentials, a keen eye for detail and a love for problem-solving. I am constantly striving to improve my skills and embrace new technologies. When I'm not coding, you can find me hiking in the great outdoors or immersed in a good book. I also spend time on transcendental meditation to sustain my awareness and productivity. Let's build something great together!
  
