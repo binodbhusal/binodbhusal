@@ -1,4 +1,5 @@
 ### Hey Binod here 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binodbhusal&theme=radical)
 
 ---
 
@@ -19,7 +20,6 @@ I am full stack passionate developer with  impressive IT credentials, a keen eye
  💬 Ask me about Full Stack Development, Meditation, and any Tech-related stuff.
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?binodbhusal= &theme=radical)
 
 ### Tech & Tools Preference
 ## Languages
