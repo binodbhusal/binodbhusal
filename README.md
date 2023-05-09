@@ -1,4 +1,5 @@
 ### Hey Binod here 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?binodbhusal= &theme=radical)
 
 ---
 
