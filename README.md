@@ -13,9 +13,9 @@ I am full stack passionate developer with  impressive IT credentials, a keen eye
  
  🌱 I’m currently learning :<img src="https://img.icons8.com/officel/16/null/ruby-programming-language.png"/> Ruby on Rails
  
- 🌱 I want to learn:  Solidity <img src="https://img.icons8.com/color-glass/20/null/solidity.png"/> for Web3 and AWS <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png"/> for Cloud Computing.
+ 🌱 I want to learn:  Solidity <img src="https://img.icons8.com/color-glass/20/null/solidity.png"/> for Web3 
  
- 👯 I’m looking to collaborate for a Fintech and ML-based project.
+ 👯 I’m looking to collaborate on a Fintech and ML-based project.
  
  💬 Ask me about Full Stack Development, Meditation, and any Tech-related stuff.
 
