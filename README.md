@@ -11,9 +11,7 @@ I am full stack passionate developer with  impressive IT credentials, a keen eye
  
  🔭 I’m planning for a Project: Web3 based Fintech Web App with integration of ML and AI.
  
- 🌱 I’m currently learning :<img src="https://img.icons8.com/officel/16/null/ruby-programming-language.png"/> Ruby on Rails
- 
- 🌱 I want to learn:  Solidity <img src="https://img.icons8.com/color-glass/20/null/solidity.png"/> for Web3 
+ 🌱 I’m currently learning :<img src="https://img.icons8.com/officel/16/null/ruby-programming-language.png"/> Solidity
  
  👯 I’m looking to collaborate on a Fintech and ML-based project.
  
