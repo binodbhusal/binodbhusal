@@ -1,6 +1,11 @@
-### Hey Binod here 👋
+[![](https://visitcount.itsvg.in/api?id=binod&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<h1 align="center">Hi 👋, I'm Binod Bhusal </h1>
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binodbhusal&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=binodbhusal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
   <img src="images/binodcard.jpg" width="100%" title="Intro Card" alt="Intro Card">
@@ -10,40 +15,85 @@ I am full stack passionate developer with  impressive IT credentials, a keen eye
  
  🔭 I’m planning for a Project: Web3 based Fintech Web App with integration of ML and AI.
  
- 🌱 I’m currently learning :<img src="https://img.icons8.com/officel/16/null/ruby-programming-language.png"/> Ruby on Rails
- 
- 🌱 I want to learn:  Solidity <img src="https://img.icons8.com/color-glass/20/null/solidity.png"/> for Web3 and AWS <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png"/> for Cloud Computing.
+ 🌱  🌱 I’m currently learning :<img src="https://img.icons8.com/officel/16/null/ruby-programming-language.png"/> Solidity
  
  👯 I’m looking to collaborate for a Fintech and ML-based project.
  
  💬 Ask me about Full Stack Development, Meditation, and any Tech-related stuff.
-
+- ⚡ I'm currently available for new opportunities please feel free to reach out to me.
+<br/> 
 ---
 
-### Tech & Tools Preference
-## Languages
+## Connect with me
+<div align="center">
+<a href="https://x.com/Binod_ironLad" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/binodbhusal/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/binodbhusal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+</br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+## ✨ Skills
+### Front-end Languages & Frameworks
 
-## Other Languages I know
-<img src="https://img.icons8.com/officel/16/null/ruby-programming-language.png"/> Ruby on Rails
+<p align="left">
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=f6df1c" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" height="50">  
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=2d79c7&animation=spin" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa&animation=spin" height="50">
+ </a>
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=2d79c7&animation=spin" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=2d79c7&animation=spin" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=2d79c7&animation=spin" height="50">
+ </a>
+</p>
 
-## Tools:
+### Back-end Language
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
+<p align="left">
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ruby&svgfill=f91401&animation=spin" height="50">
+ </a>
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rubyonrails&svgfill=2d79c7&animation=spin" height="50">
+ </a>
+</p>
 
-## Frameworks:
-<img src="https://img.icons8.com/color/25/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/plasticine/25/null/react.png"/>
-<img src="https://img.icons8.com/color/25/null/redux.png"/>
+### Databases
 
-## Reach Out to me:
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/vividha-rawat-761905143/)](https://www.linkedin.com/in/binodbhusal/)
+<p align="left">
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791" height="50">  
+ </a>
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:binodreal1982@gmail.com)
+### Other Technologies
+
+<p align="left"> 
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Github" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=RestApi" height="50">
+ </a>
+</p>
