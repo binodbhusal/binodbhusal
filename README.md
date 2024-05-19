@@ -15,13 +15,13 @@ I am full stack passionate developer with  impressive IT credentials, a keen eye
  
  🔭 I’m planning for a Project: Web3 based Fintech Web App with integration of ML and AI.
  
- 🌱  🌱 I’m currently learning :<img src="https://img.icons8.com/officel/16/null/ruby-programming-language.png"/> Solidity
+ 🌱 I’m currently learning :<img src="https://img.icons8.com/officel/16/null/ruby-programming-language.png"/> Solidity
  
  👯 I’m looking to collaborate for a Fintech and ML-based project.
- 
  💬 Ask me about Full Stack Development, Meditation, and any Tech-related stuff.
  ⚡ I'm currently available for new opportunities please feel free to reach out to me.
-<br/> 
+ 
+ </br>
 ---
 
 ## Connect with me
