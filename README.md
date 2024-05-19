@@ -18,7 +18,9 @@ I am full stack passionate developer with  impressive IT credentials, a keen eye
  🌱 I’m currently learning :<img src="https://img.icons8.com/officel/16/null/ruby-programming-language.png"/> Solidity
  
  👯 I’m looking to collaborate for a Fintech and ML-based project.
+ 
  💬 Ask me about Full Stack Development, Meditation, and any Tech-related stuff.
+ 
  ⚡ I'm currently available for new opportunities please feel free to reach out to me.
  
  </br>
