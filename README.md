@@ -24,7 +24,6 @@ I am full stack passionate developer with  impressive IT credentials, a keen eye
  ⚡ I'm currently available for new opportunities please feel free to reach out to me.
  
  </br>
----
 
 ## Connect with me
 <div align="center">
